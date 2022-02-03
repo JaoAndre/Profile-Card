@@ -42,7 +42,7 @@ body {
   border-radius: 10px 10px 0 0;
 }
 
-.card .card_header img {
+.card .card_header .card_image {
   position: absolute;
   bottom: -40%;
   width: 80px;
@@ -86,7 +86,7 @@ body {
   width: 49%;
   background: #4361ee;
   border-radius: 5px;
-  padding: 5px 0;
+  padding: 8px 0;
   font-size: 12px;
   text-transform: uppercase;
   color: #ffffff;
@@ -100,5 +100,5 @@ body {
 }
 
 .card .card_body .card_tags span:hover {
-  transform: translateY(-3px);
+  transform: translateY(-2px);
 }
