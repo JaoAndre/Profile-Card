@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/JaoAndre/Profile-Card?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/JaoAndre/Profile-Card?color=blue&style=for-the-badge)
 
-![Profile Card](https://user-images.githubusercontent.com/59805284/152712364-6bd3a51b-a710-493a-b61f-4e81f801d99d.png)
+![Profile Card](https://user-images.githubusercontent.com/59805284/161406905-4512e74d-9d8f-4b2d-9a20-17d8cf4456f7.png)
 
 ## 🔩 Ajustes e melhorias
 
