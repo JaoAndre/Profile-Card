@@ -6,13 +6,6 @@
 
 ![Profile Card](https://user-images.githubusercontent.com/59805284/161406905-4512e74d-9d8f-4b2d-9a20-17d8cf4456f7.png)
 
-## 🔩 Ajustes e melhorias
-
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [x] Animações
-- [ ] Responsividade
-
 ## 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](https://github.com/JaoAndre/Profile-Card/blob/main/LICENSE) para mais detalhes.
